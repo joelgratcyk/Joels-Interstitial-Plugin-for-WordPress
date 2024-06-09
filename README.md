@@ -1,5 +1,5 @@
 # Joels-Interstitial-Plugin-for-WordPress
-This plugin displays an interstitial for external links on your WordPress site, providing transparency to users before they leave the site.
+Display an interstitial for external links with customization options.
 
 Contributors: Joel Gratcyk, ChatGPT (OpenAI)
 Tags: external links, interstitial, WordPress
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
 ## Description
 
-This plugin adds an interstitial for external links in WordPress content. When users click on an external link, they will see a confirmation message informing them that they are leaving the site.
+This plugin displays an interstitial for external links on a WordPress site, providing transparency to users before they leave the site.
 
 ## Installation
 
