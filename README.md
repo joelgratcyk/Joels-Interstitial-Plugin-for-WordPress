@@ -19,6 +19,14 @@ This plugin displays an interstitial for external links on a WordPress site, pro
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Configure the plugin settings under 'Settings' > 'External Links Interstitial'.
 
+## Always backup before changing any code.
+
+## Find this repository helpful? 
+Buy Me A Coffee: https://www.buymeacoffee.com/joelg 
+
+## Want me to do some work for you? 
+Book a call today: http://joel.gr
+
 ## Changelog
 
 = 1.0 =
